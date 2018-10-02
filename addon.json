@@ -1,0 +1,17 @@
+{
+	"title"		:	"TTT FAS2 Shotgun modified",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		".git/*",
+		".settings/*",
+		".buildpath",
+		".gitignore",
+		".project",
+		"config.txt.example*",
+		"LICENSE",
+		"README.md",
+		"icon.jpg"
+	]
+}
