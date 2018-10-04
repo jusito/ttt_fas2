@@ -1,6 +1,9 @@
 # ttt_fas2
 Here are various fix / modifications for fas2
 
+Patches for FAS2 GMOD & all gamemodes:
+https://github.com/jusito/ttt_fas2/tree/patch_fas2_base
+
 Patches for FAS2 TTT:
 https://github.com/jusito/ttt_fas2/tree/patch_ttt_fas2_base
 
