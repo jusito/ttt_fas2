@@ -5,3 +5,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=373924551
 
 FAS2 Ammobox dropable:
 In TTT it blocks Traitor items, with this patch it can be dropped but disappears after.
+
+FAS2 M67 Granate:
+Creates errors because StripWeapon used instead of SafeRemoveEntity
