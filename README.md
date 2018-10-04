@@ -1,5 +1,7 @@
 # Patch Gmod FAS2
 
+Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=1530264517
+
 Patch for: FA:S 2.0 Alpha SWEPs
 https://steamcommunity.com/sharedfiles/filedetails/?id=180507408
 
