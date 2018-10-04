@@ -1,14 +1,7 @@
-# ttt_fas2
-Here are various fix / modifications for fas2
+# Patch TTT FAS2
 
-You need FAS2 for TTT, this is just a patch.
+Patch for: Firearms:Source 2.0 Weapons for TTT
+https://steamcommunity.com/sharedfiles/filedetails/?id=373924551
 
-Because we doesn't like the normal fas2 shotguns behavior, I modded it to the normal one.
-
-- Looks way more beatiful as the normal one, fas2 style, animations, physics, ...
-- shots 8 bullets
-- bullets do 11 dmg
-- bullet spread like the default one, just with fas2 calculated
-- bullet dmg dropoff like the default one
-- clipsize 8 like the default one
-- no reload between shots needed
+FAS2 Ammobox dropable:
+In TTT it blocks Traitor items, with this patch it can be dropped but disappears after.
